@@ -1,0 +1,21 @@
+h1 {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', sans-serif;
+    font-weight: bold;
+}
+
+strong{
+    text-shadow: 0 0 5px palevioletred;
+}
+
+.writer{
+
+    font-size: 5;
+    font-style: italic;
+    color:cornflowerblue;
+}
+
+.content{
+    font-size: 10;
+    font-family: 'Times New Roman', Times, sans-serif;
+    color:orange;
+}
